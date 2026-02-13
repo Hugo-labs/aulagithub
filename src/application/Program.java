@@ -8,5 +8,7 @@ public class Program {
         Person person1 = new Person("Victor Hugo", 22);
 
         System.out.println(person1);
+
+        System.out.println("End");
     }
 }
